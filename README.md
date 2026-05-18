@@ -8,7 +8,7 @@ Este projeto é uma API RESTful desenvolvida para o gerenciamento de usuários, 
 - Express (Framework para rotas HTTP)
 - Sequelize (ORM para abstração de banco de dados)
 - PostgreSQL (Banco de dados relacional)
-- Docker e Docker Compose (Orquestração de containers)
+- Docker
 
 ## Funcionalidades
 
